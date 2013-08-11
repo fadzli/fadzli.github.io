@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://fadzli.github.io/sitemap.xml 
