@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Post with a Background Image
-description: "Sample post with a background image CSS override."
-tags: [sample post]
+title: Dear South East Asian Founder
+description: "How to increase your entrepreneurshit!"
+tags: [mindset, asia, startup]
 image:
   background: triangular.png
 comments: true
