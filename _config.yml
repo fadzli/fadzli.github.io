@@ -11,8 +11,8 @@ owner:
   bio:            "YIt's just me."
   email:          me@fadzlishah.com
   # Social networking links used in footer. Update and remove as you like.
-  twitter: twitter.com/mynameisfaz        
-  facebook: facebook.com/fadzlishah       
+  twitter: mynameisfaz        
+  facebook: mynameisfaz       
   github:         
   stackexchange:  
   linkedin:       
@@ -42,7 +42,7 @@ links:
     external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
+timezone:    Asia/Kuala_Lumpur
 future:      true
 pygments:    true
 markdown:    kramdown
